@@ -20,11 +20,11 @@ The dataset which will be wrangled is the tweet archive of Twitter user @dog_rat
 - Visualizing
 
 ## Additional Files
-act_report: Communicates the insights and displays the Visualizations produced from the wrangled data.
-./Data/image_prediction.tsv: Data downloaded using Requests library and URL.
-./Data/tweet_json.txt: Data gathered from twitter API.
-./Data/twitter-archive-enhanced.csv: File downloaded from Udacity.
-./Data/twitter_archive_master.csv: The clean DataFrame 1.
-./Data/twitter_image_predictions.csv: The clean DataFrame 2.
-wrangle_act.ipynb: The main file containing all the gathering, wrangling and analyzing work.
-wrangle_report: Briefly describes my wrangling efforts.
+- **act_report**: Communicates the insights and displays the Visualizations produced from the wrangled data.
+- **./Data/image_prediction.tsv**: Data downloaded using Requests library and URL.
+- **./Data/tweet_json.txt**: Data gathered from twitter API.
+- **./Data/twitter-archive-enhanced.csv**: File downloaded from Udacity.
+- **./Data/twitter_archive_master.csv**: The clean DataFrame 1.
+- **./Data/twitter_image_predictions.csv**: The clean DataFrame 2.
+- **wrangle_act.ipynb**: The main file containing all the gathering, wrangling and analyzing work.
+- **wrangle_report**: Briefly describes my wrangling efforts.
